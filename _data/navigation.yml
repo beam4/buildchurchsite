@@ -41,6 +41,8 @@
       link: /machinerepair/
     - name: Preowned Ultrasound Machine
       link: /preownedmachine/
+    - name: Other Applications
+      link: /others/
 # - name: Manual
 #   link: /man/
 # - name: Docs (external)
