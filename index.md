@@ -2,7 +2,7 @@
 title: Low Priced Medical Ultrasound Technically Support
 subtitle: We Provide Technical Service To Ultrasound Applications
 layout: page
-hero_image: "/img/sitev1.0/homecn.jpg"
+hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-large
 ---
 
