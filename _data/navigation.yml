@@ -20,8 +20,8 @@
 #  link: /index-en/ 
 #- name: 数据
 #  link: /tutorials/zh/tutorials/
-- name: About Us
-  link: /about/
+- name: Mission
+  link: /mission/
 # - name: Contact Us
 #   link: /contact/
 #- name: Tutorials
@@ -43,8 +43,8 @@
       link: /preownedmachine/
     - name: Other Applications
       link: /others/
-# - name: Manual
-#   link: /man/
+- name: Inspection
+  link: /inspection/
 # - name: Docs (external)
 #   link: https://tacticlink.readthedocs.io/en/latest
 # - name: 中文
