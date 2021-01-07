@@ -43,6 +43,8 @@
       link: /preownedmachine/
     - name: Other Applications
       link: /others/
+- name: Showcase
+  link: /showcase/
 - name: Inspection
   link: /inspection/
 # - name: Docs (external)
