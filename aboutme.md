@@ -6,7 +6,7 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
 
-!Me(/img/potait.jpeg)
+!Me(/img/potrait.jpeg)
 
 This photo was taken on January 07, 2001
 
