@@ -21,5 +21,3 @@ hero_height: is-small
 ![t07](/img/transducer07.jpeg)
 
 ![t08](/img/transducer08.jpeg)
-
-![t09](/img/transducer09.jpeg)
