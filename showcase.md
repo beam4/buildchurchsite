@@ -6,25 +6,17 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
 
-![u01](/img/ultrasound01.jpeg)
+![u01](/img/ultrasound001.jpeg)
 
-![u02](/img/ultrasound02.jpeg)
-
-![u03](/img/ultrasound03.jpeg)
-
-![u04](/img/ultrasound04.jpeg)
+![u02](/img/ultrasound002.jpeg)
 
 ![t01](/img/transducer001.jpeg)
 
-![t02](/img/transducer02.jpeg)
+![t02](/img/transducer002.jpeg)
 
-![t03](/img/transducer03.jpeg)
+![t03](/img/transducer003.jpeg)
 
-![t04](/img/transducer04.jpeg)
-
-![t05](/img/transducer05.jpeg)
-
-![t06](/img/transducer06.jpeg)
+![t06](/img/transducer007.jpeg)
 
 ![t07](/img/transducer07.jpeg)
 
