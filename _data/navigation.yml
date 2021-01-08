@@ -33,20 +33,20 @@
 #- name: Blog
 #  link: /blog/
 - name: Service
-  link: 
-  dropdown: 
-    - name: Transducer Repair
-      link: /transducerrepair/
-    - name: Ultrasound Machine Repair
-      link: /machinerepair/
-    - name: Preowned Ultrasound Machine
-      link: /preownedmachine/
-    - name: Other Applications
-      link: /others/
+  link: /service/
+ # dropdown: 
+ #  - name: Transducer Repair
+ #     link: /transducerrepair/
+ #  - name: Ultrasound Machine Repair
+ #    link: /machinerepair/
+ #   - name: Preowned Ultrasound Machine
+ #     link: /preownedmachine/
+ #   - name: Other Applications
+ #     link: /others/
 - name: Showcase
   link: /showcase/
-- name: Inspection
-  link: /inspection/
+- name: Tutorials
+  link: /tutorials/
 # - name: Docs (external)
 #   link: https://tacticlink.readthedocs.io/en/latest
 # - name: 中文
