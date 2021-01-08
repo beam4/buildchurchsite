@@ -14,7 +14,7 @@ hero_height: is-small
 
 ![u04](/img/ultrasound04.jpeg)
 
-![t01](/img/transducer01.jpeg)
+![t01](/img/transducer001.jpeg)
 
 ![t02](/img/transducer02.jpeg)
 
