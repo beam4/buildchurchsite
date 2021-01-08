@@ -6,18 +6,32 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
 
+Fig. 01
+
 ![u01](/img/ultrasound001.jpeg)
+
+Fig. 01 A C5-2 abdominal transducer fond lens brocken, look at its imaging with a black darkness. 
+
+Fig. 02
 
 ![u02](/img/ultrasound002.jpeg)
 
-![t01](/img/transducer001.jpeg)
+Fig. 02 Error codes after self test on a HP ultrasound machine.
 
-![t02](/img/transducer002.jpeg)
-
-![t03](/img/transducer003.jpeg)
+Fig. 03 
 
 ![t06](/img/transducer007.jpeg)
 
+Fig. 03 We bought a brand new transducer from GE France.
+
+Fig.05
+
 ![t07](/img/transducer07.jpeg)
 
+Fig. 05 We bought a second hand transducer L7535 for HP Ultrasound (now part of philips) from a Canada company.
+
+Fig. 06
+
 ![t08](/img/transducer008.jpeg)
+
+Fig. 06 After transducer lens repair, look like this. 
