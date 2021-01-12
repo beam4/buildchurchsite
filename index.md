@@ -13,3 +13,7 @@ Then I want to neogotiate with a certain second hand company for saling preowned
 Regarding sales of ultrasoung service,we have to try online advertising other than face to face visit.On initial stage, there may be few visits required, but mainly we depend on online advertising. For online channels, I have no ideas at the moment, but there suppose to be a medical imaging site or social site for medical professionals.
 
 For networking service we will talk later, after the ultrsound work became stable.
+
+#### contact
+
+cheejon@yahoo.com
