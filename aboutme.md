@@ -10,6 +10,9 @@ hero_height: is-small
 
 This photo was taken on January 07, 2021
 
+![MyPassport](/img/pass.jpeg)
+
+This a photo of my passport.
 
 At present, I am located in Kathmandu Nepal.
 
