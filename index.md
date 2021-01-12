@@ -1,6 +1,6 @@
 ---
-title: Low Priced Medical Ultrasound Technically Support
-subtitle: We Provide Technical Service To Ultrasound Applications
+title: Bring convenience ultrasound service and enhance medical imaging quality to doctors
+subtitle: with engineer skill and networking technologies
 layout: page
 hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-large
