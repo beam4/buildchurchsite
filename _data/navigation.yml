@@ -32,8 +32,8 @@
 #  link: /en/
 #- name: Blog
 #  link: /blog/
-- name: Service
-  link: /service/
+#- name: Service
+# link: /service/
  # dropdown: 
  #  - name: Transducer Repair
  #     link: /transducerrepair/
