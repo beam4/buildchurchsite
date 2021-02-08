@@ -9,7 +9,7 @@ hero_height: is-small
 
 Work remotely is not only a buzzword in front us, it real challenge. Remote work is at the core to evalue what we get.
 
-From value layer:
+#### From value layer:
 
 It should be a transparent company, information is power, no called cmmercial secrets inside.In order to implement value layer, here are rules.
 
@@ -21,7 +21,7 @@ No secrtes among work acts,everything suppose to be transparency,this require bu
 
 Each party in a communication should mind, there is a need to record, in order to let other people know the matter clear, that is asynchronous purposed to. Also ther is a need to definite what the urgent is. 
 
-Practice layers:
+#### Practice layers:
 
 ##### 1. Hand Book
 
