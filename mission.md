@@ -13,11 +13,11 @@ From value layer:
 
 It should be a transparent company, information is power, no called cmmercial secrets inside.In order to implement value layer, here are rules.
 
-1. Transparency
+##### 1. Transparency
 
 No secrtes among work acts,everything suppose to be transparency,this require businee structure rebuilt, abandon shareholders structures,turn to emplyees hold share. Turn the company to emplyees holding company.
 
-1. Communications
+##### 2. Communications
 
 Each party in a communication should mind, there is a need to record, in order to let other people know the matter clear, that is asynchronous purposed to. Also ther is a need to definite what the urgent is. 
 
