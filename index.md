@@ -8,7 +8,7 @@ hero_height: is-large
 
 ### Remote Work
 
-Work remotely is not only a buzzword in front us, it real challenge. remote work is at the core to evalue what we get.
+Work remotely is not only a buzzword in front us, it real challenge. Remote work is at the core to evalue what we get.
 
 From value layer:
 
