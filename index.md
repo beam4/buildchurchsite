@@ -22,7 +22,7 @@ No secrtes among work acts,everything suppose to be transparency,this require bu
 
 Each party in a communication should mind, there is a need to record, in order to let other people know the matter clear, that is asynchronous purposed to. Also ther is a need to definite what the urgent is. 
 
-Practice layers:
+#### Practice layers:
 
 ##### 1. Hand Book
 
