@@ -23,17 +23,17 @@ Each party in a communication should mind, there is a need to record, in order t
 
 Practice layers:
 
-1. Hand Book
+##### 1. Hand Book
 
 The guide on how to start a remote work. A new user suppose to have a gmail account, for email corepondents,and google other services,a gitlab.com account to use company intranet, and communicate with gitlab issues.
 
 Because we are used to face to face communications, we are trained for that purpose, means if we want to work remotely well,we have to abandon the habits. 
 
-1. Everything record
+##### 2. Everything record
 
 If you want to communicate well under a limit budget, you have to appoint rules between two parties, and the rules enhence mutial trust. Not only for present talking need, it is necessary to leave a record to check afterward, every work related record either it is chat or working memo or working comment can searchable.
 
-1. Asynchronous Communications
+##### 3. Asynchronous Communications
 
 When you approach your work in this manner, it's less chaotic. The sense of urgency is not on rushing something out, but on the thoroughness and thoughtfulness in documentation. — Darren M., GitLab
 
