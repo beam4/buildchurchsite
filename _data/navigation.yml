@@ -45,7 +45,7 @@
  #     link: /others/
 - name: Showcase
   link: /showcase/
-- name: Tutorials
-  link: /tutorials/
+ # - name: Tutorials
+ #   link: /tutorials/
 - name: Docs
   link: /docs/
