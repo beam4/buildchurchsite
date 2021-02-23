@@ -20,8 +20,8 @@
 #  link: /index-en/ 
 #- name: 数据
 #  link: /tutorials/zh/tutorials/
-- name: Mission
-  link: /mission/
+- name: Requirement
+  link: /requirement/
 # - name: Contact Us
 #   link: /contact/
 #- name: Tutorials
