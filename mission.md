@@ -5,42 +5,25 @@ layout: page
 hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
-### Remote Work
+GOAL: To bring low cost medical ultrasound service through ultrasound repair and second hand ultrasound works.To bring low cost medical imaging to physicans' desktop where diagnostics required through networking technology.
 
-Work remotely is not only a buzzword in front us, it real challenge. Remote work is at the core to evalue what we get.
+The goal will lead our customers costs decrease and diagnostics abilities increase, will bring patients cost less, and strentgh our customers' competitiveness.
 
-#### From value layer:
+The competition make hospital or clinic increase their reputations,one of reputations comes from diagnostics accuracy, there are various products in market, but most of them are either expensive and lack of transparent,our goal is providing low cost ultrasound transducer repair service to hospital or clinics, make the services affordable and transparent, incuding second hand ultrasound machine and transducer sales. Ether we stand with our customers to make the services affordable and transparent and  also we provide high quality low cost imaging archive and transmision method which diagnostic required.
 
-It should be a transparent company, information is power, no called cmmercial secrets inside.In order to implement value layer, here are rules.
+### The business GOAL:
 
-##### 1. Transparency
+Our goal is to bring low-cost solution to physicians, the physicians (doctors who are responsable for diagnostics) have demands to increase their diagnostics more accuracy through medical imaging, we have ultrasound transducers repair, if those can not meet their needs, we have second-hand ultrasound machine and new or preowned ultrasound transducer to provided.
 
-No secrtes among work acts,everything suppose to be transparency,this require businee structure rebuilt, abandon shareholders structures,turn to emplyees hold share. Turn the company to emplyees holding company.
+In order to increase diagnostic accuracy, we provide affordable open source PACS solution to customers.
 
-##### 2. Communications
+All those solutions are to significantly decrease the cost for imaging service meanwhile the affordable PACS solution will increase our customer's competitive advantage. 
 
-Each party in a communication should mind, there is a need to record, in order to let other people know the matter clear, that is asynchronous purposed to. Also ther is a need to definite what the urgent is. 
+The competition make hospital or clinic increase their reputations,one of reputations comes from diagnostics accuracy, there are various products in market, but most of them are either expensive and lack of transparent,our goal is providing low cost ultrasound transducer repair service to hospital or clinics, make the services affordable and transparent, incuding second hand ultrasound machine and transducer sales. Ether we stand with our customers to make the services affordable and transparent and  also we provide high quality low cost imaging archive and transmision method which diagnostic required.
 
-#### Practice layers:
+Here is the [organization](/mission/organization/) I want to build.
 
-##### 1. Hand Book
+Here is how to act in sales.
 
-The guide on how to start a remote work. A new user suppose to have a gmail account, for email corepondents,and google other services,a gitlab.com account to use company intranet, and communicate with gitlab issues.
+The remote work is in the center to evalue our success, how to build a competitive organazition is a big challenge.
 
-Because we are used to face to face communications, we are trained for that purpose, means if we want to work remotely well,we have to abandon the habits. 
-
-##### 2. Everything record
-
-If you want to communicate well under a limit budget, you have to appoint rules between two parties, and the rules enhence mutial trust. Not only for present talking need, it is necessary to leave a record to check afterward, every work related record either it is chat or working memo or working comment can searchable.
-
-##### 3. Asynchronous Communications
-
-When you approach your work in this manner, it's less chaotic. The sense of urgency is not on rushing something out, but on the thoroughness and thoughtfulness in documentation. — Darren M., GitLab
-
-#### The mission
-
-The ultimate goal is bringing available medical imaging to doctor’s desktop, through netwotking technologies.
-
-We provide ultrasound service to reduce the cost of ultrasound imaging.
-
-Then for multi resources medical imaging to improve the acurate of diagnostic,the networking technologies can solve the problem, it is like setting up a internal server for Dicom file to store and retrieve, there are open source projects out there, I tried some years ago,today with dockerized images, it would be easier. 
