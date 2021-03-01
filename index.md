@@ -1,52 +1,32 @@
 ---
-title: Bring convenience ultrasound service and enhance medical imaging quality to doctors
-subtitle: with engineer skill and networking technologies
+title: Bring low cost ultrasound service and convenient medical imaging quality to doctors' desk
+subtitle: 
 layout: page
 hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-large
 ---
 
-### Remote Work
+#### work scopes
 
-Work remotely is not only a buzzword in front us, it real challenge. Remote work is at the core to evalue what we get.
+1. Transducer (probe scanhead) Repair
 
-#### From value layer:
+Mainly it is lens repair service,
 
-It should be a transparent company, information is power, no called cmmercial secrets inside.In order to implement value layer, here are rules.
+We may start from lens repair, ten years ago, it was about USD150 each, its US conterpart offer USD1000 with test( I fergot the exact amount) the south korea repair facility also derive from USA technology.
 
-##### 1. Transparency
+We can focus on lens repair, even from imaging quality perspective, the genuine and non-genuine transducer almost have no visible differents, the customer may like genuine transducer,  we can offer used or new( in some occasions) genuine transducer, even it is 10 times higher.In the future, I think we can persuade a Chinese repair vendor to set a lens repair facility in India, I think the lens repair is simple.
 
-No secrtes among work acts,everything suppose to be transparency,this require businee structure rebuilt, abandon shareholders structures,turn to emplyees hold share. Turn the company to emplyees holding company.
+2. New or preowned genuine transducer and preowned ultrasound machine, I will negotiate with a Canada company and a USA company who are selling ultrasound, in order to take commission.
 
-##### 2. Communications
+3. The imaging networking service, there is potencial that imaging networking becoming premier work. The customer's demand may focus on networking.
 
-Each party in a communication should mind, there is a need to record, in order to let other people know the matter clear, that is asynchronous purposed to. Also ther is a need to definite what the urgent is. 
+ #### The sales path suppose like this:
 
-#### Practice layers:
+First experiment,then go online advertising, first experiment to testify the idea or concept in a small experiment group, a handful local small hospitals or clinics will be ok, then find an appropriate online sale channel.
 
-##### 1. Hand Book
+#### About speed
 
-The guide on how to start a remote work. A new user suppose to have a gmail account, for email corepondents,and google other services,a gitlab.com account to use company intranet, and communicate with gitlab issues.
-
-Because we are used to face to face communications, we are trained for that purpose, means if we want to work remotely well,we have to abandon the habits. 
-
-##### 2. Everything record
-
-If you want to communicate well under a limit budget, you have to appoint rules between two parties, and the rules enhence mutial trust. Not only for present talking need, it is necessary to leave a record to check afterward, every work related record either it is chat or working memo or working comment can searchable.
-
-##### 3. Asynchronous Communications
-
-When you approach your work in this manner, it's less chaotic. The sense of urgency is not on rushing something out, but on the thoroughness and thoughtfulness in documentation. — Darren M., GitLab
-
-#### The Steps
-
-We start from transducer repair, I knew the Chinese repair companies in Shenzhen,I need to confirm afterwards. The other repair companies from US and Korea I used to work with, but I am afaid they can not compete with the price I will cofirm anyway.
-
-Then I want to neogotiate with a certain second hand company for saling preowned ultrasound machine for commission, because we initial satrt,lacking of money, I am confidence they will agree, for exchange, I can provide free networking technology consulting service to the company.
-
-Regarding sales of ultrasoung service,we have to try online advertising other than face to face visit.On initial stage, there may be few visits required, but mainly we relay on online advertising. For online channels, I have no ideas at the moment, but there suppose to be a medical imaging site or social site for medical professionals.
-
-For networking service we will talk later, after the ultrsound work became stable.
+Keep it in mind, we are not a selling company,sale solution to our cusomers, we are solving customers technical problem, our solution suppose to be complicated and time consuming, but deliver to customer should be simple and easy to operated. So speed is not our first priority.
 
 ### contact
 
