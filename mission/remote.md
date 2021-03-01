@@ -40,4 +40,4 @@ If you want to communicate well under a limit budget, you have to appoint rules 
 
 **Asynchronous Communications**
 
-We have to redefine speed, during digital transformation, the old rules are abandoned, in digial sale, speed is less important among value, trust,  
+We have to redefine speed, during digital transformation, the old rules are abandoned, in digial sale, speed is less important among value, trust.
