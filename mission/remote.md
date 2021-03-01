@@ -24,20 +24,20 @@ No secrtes among work,everything suppose to be transparency. Everyone is transpe
 
 In practice, other company's sharing is very important,there is no standard procedure in remote work space, practices required.
 
-1. Communications
+**Communications**
 
 In order to win in competition, communications are very important, Clear mutual understanding and rules by both parties are the key.
 
-2. Hand Book
+**Hand Book**
 
 The guide on how to start a remote work. A success remote work will not happen autopilot, mutual rules are needed.
 
 Because we are used to face to face communications, we are trained for that purpose, means if we want to work remotely well,we have to abandon the old habits. 
 
-3. Everything record
+**Everything record**
 
 If you want to communicate well under a limit budget, you have to appoint rules between two parties, and the rules enhence mutial trust. Not only for present talking need, it is necessary to leave a record to check afterward, every work related record whether it is chat or working memo or working comment can searchable.
 
-4. Asynchronous Communications
+**Asynchronous Communications**
 
 We have to redefine speed, during digital transformation, the old rules are abandoned, in digial sale, speed is less important among value, trust,  
