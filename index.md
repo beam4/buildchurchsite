@@ -20,7 +20,7 @@ We can focus on lens repair, even from imaging quality perspective, the genuine 
 
 3. The imaging networking service, there is potencial that imaging networking becoming premier work. The customer's demand may focus on networking.
 
- #### The sales path suppose like this:
+#### The sales path suppose like this:
 
 First experiment,then go online advertising, first experiment to testify the idea or concept in a small experiment group, a handful local small hospitals or clinics will be ok, then find an appropriate online sale channel.
 
