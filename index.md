@@ -6,25 +6,31 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-large
 ---
 
-#### work scopes
+#### Scope of work
 
-Transducer (probe scanhead) Repair
+We may start from transducer repair, with quick proccess(which no site engineer help, the customer will do site inspection them self,then sign agreement online, deliver the transducer themself, recieve repaired transducer themself, all by instruction on website, in order to save customer's cost.). The transducer repair mostly is lens repair.
 
-We may start from lens repair, ten years ago, it was about USD150 each, its US conterpart offer USD1000 with test( I fergot the exact amount) the south korea repair facility also derive from USA technology.
+Then if the transducer repair do not meet customer's need, we may offer them new or used transducer, if they want to buy ultrasound machine,we can offer used ultrasound machine, in this stage,the customer's information is very crucial, we may offer the customer's most fit solution according to the information.
 
-We can focus on lens repair, even from imaging quality perspective, the genuine and non-genuine transducer almost have no visible differents, the customer may like genuine transducer,  we can offer used or new( in some occasions) genuine transducer, even it is 10 times higher.In the future, I think we can persuade a Chinese repair vendor to set a lens repair facility in India, I think the lens repair is simple.
+Those are ultrasound service work.
 
-New or preowned genuine transducer and preowned ultrasound machine, I will negotiate with a Canada company and a USA company who are selling ultrasound, in order to take commission.
+The imaging networking work are little bit different, once we are ready we have to look for a customer,usually it is a small hospital or clinic, the low cost DICOM server to store all diagnostics images and view on doctor's desk, may attractive to hospital.
 
-The imaging networking service, there is potencial that imaging networking becoming premier work. The customer's demand may focus on networking.
+The above are the services what we can provide.
 
-#### The sales path suppose like this:
+#### Sales channels
 
-First experiment,then go online advertising, first experiment to testify the idea or concept in a small experiment group, a handful local small hospitals or clinics will be ok, then find an appropriate online sale channel.
+First we need to testify the idea, to do experiment. Then we will do online advertising. The experiment group may be nearby target hospitals and clinics, if the idea prove works,then go online advertising.
 
-#### About speed
+I think the transducer repair we can make it unbeatable low to attract customers, we may gain from used ultrasound sales, inclding transducer sales commission.
 
-Keep it in mind, we are not a selling company,sale solution to our cusomers, we are solving customers technical problem, our solution suppose to be complicated and time consuming, but deliver to customer should be simple and easy to operated. So speed is not our first priority.
+#### The initial sales plan
+
+I think I can pursuade Chinese transducer to setup a fecility in India, in a short time after we start. I think India market is attactive.
+
+The online advertising are suppose to help us to sale ultrasound machines, I will negotiate with a Canada company as well as an american company to sale their invetotry to let us have commission from sales, by exchange I can provide free digital advice for small business, I think it is attractive.I will do it shortly after we start.
+
+The images networking cusomer may come from used ultrasound,the networking work may take longer time than sale work.
 
 ### contact
 
