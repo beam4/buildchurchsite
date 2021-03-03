@@ -10,6 +10,8 @@ hero_height: is-small
 
 1. lens repair
 
-2. crystal epair
+2. crystal repair
 
 3. cable repair
+
+![cable connectivity](/img/transducer/connectivity.jpg)
