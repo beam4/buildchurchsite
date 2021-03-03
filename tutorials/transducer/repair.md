@@ -14,4 +14,4 @@ hero_height: is-small
 
 3. cable repair
 
-![cable connectivity](/img/transducer/connectivity.jpg)
+![cable connectivity](/img/transducer/connectivity.jpeg)
