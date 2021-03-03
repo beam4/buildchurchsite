@@ -1,6 +1,6 @@
 ---
-title: Tutorials
-subtitle: 
+title: 
+subtitle: Tutorials
 layout: page
 hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
