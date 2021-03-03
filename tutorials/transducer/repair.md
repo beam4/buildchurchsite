@@ -15,3 +15,6 @@ hero_height: is-small
 3. cable repair
 
 ![cable connectivity](/img/transducer/connectivity.jpeg)
+
+![piezoelectric material](/img/transducer/piezoelectric.jpg)
+
