@@ -14,6 +14,12 @@ hero_height: is-small
 
 3. cable repair
 
+#### The transducer structure
+
+This is diagram of a transducer
+
+
+
 #### How to distinguish lens broken with crystal dead
 
 ![cable connectivity](/img/transducer/connectivity.jpeg)
