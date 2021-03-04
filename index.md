@@ -1,5 +1,5 @@
 ---
-title: Bring low cost ultrasound service and convenient medical imaging quality to doctors' desk
+title: Bring low cost ultrasound services and convenient medical imagings to doctors' desk
 subtitle: 
 layout: page
 hero_image: "/img/sitev1.0/home03.jpg"
