@@ -1,6 +1,6 @@
 ---
-title: Transducer tutorials
-subtitle: 
+title: 
+subtitle: transducer
 layout: page
 hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
@@ -8,7 +8,7 @@ hero_height: is-small
 
 #### Transducer repair
 
-There 4 types transducer repair, Lens repair, Crystal repair, Cable repair, Port repair, port is a still part, broken need to repair is very rear, usually can be fixed on site, and cable repair usually comes with imaging quality decreased.Can be deticted with screening and observation combined, that are broken connection can cause disconnection, leave a black where  it disconnect, aside with cable broken,we distingush here the lens repair with crytal demage.
+There 4 types transducer repair, Lens repair, Crystal repair, Cable repair, Port repair, port is a still part, broken need to repair is very rare, usually can be fixed on site, and cable repair usually comes with imaging quality decreased.Can be deticted with screening and observation combined, that are broken connection can cause disconnection, leave a black where  it disconnect, aside with cable broken,we distingush here the lens repair with crytal demage.
 
 ### Inspection on site proecdure
 
