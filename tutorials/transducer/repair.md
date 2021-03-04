@@ -14,6 +14,8 @@ hero_height: is-small
 
 3. cable repair
 
+#### How to distinguish lens broken with crystal dead
+
 ![cable connectivity](/img/transducer/connectivity.jpeg)
 
 ![piezoelectric material](/img/transducer/piezoelectric.jpg)
