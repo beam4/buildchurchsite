@@ -30,7 +30,7 @@ Fig. 03 We bought a brand new transducer from GE France.
 
 ![t07](/img/transducer07.jpeg)
 
-Fig. 04 We bought a second hand transducer L7535 for HP Ultrasound (now part of philips) from a Canada company.
+Fig. 04 We bought a second hand transducer L7535 for HP Ultrasound (now part of Philips) from a Canada company.
 
 #### Fig. 05
 
