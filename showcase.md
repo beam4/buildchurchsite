@@ -6,6 +6,8 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
 
+**Those were previous works:**
+
 #### Fig. 01
 
 ![u01](/img/ultrasound001.jpeg)
