@@ -18,7 +18,7 @@ Fig. 01 A C5-2 abdominal transducer found lens brocken, look at its imaging with
 
 ![u02](/img/ultrasound002.jpeg)
 
-Fig. 02 Error codes after self test on a HP ultrasound machine.
+Fig. 02 Error codes after self test on a HP ultrasound machine.Shot on 2009.
 
 #### Fig. 03 
 
@@ -30,7 +30,7 @@ Fig. 03 We bought a brand new transducer from GE France.
 
 ![t07](/img/transducer07.jpeg)
 
-Fig. 04 We bought a second hand transducer L7535 for HP Ultrasound (now a part of Philips) from a Canada company.
+Fig. 04 We bought a second hand transducer L7535 for HP Ultrasound (now a part of Philips) from a Canada company.Shot on 2008.
 
 #### Fig. 05
 
