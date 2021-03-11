@@ -24,7 +24,7 @@ Fig. 02 Error codes after self test on a HP ultrasound machine.Shot on 2009.
 
 ![t06](/img/transducer007.jpeg)
 
-Fig. 03 We bought a brand new transducer from GE France.
+Fig. 03 We bought a brand new transducer from GE France. Shot on 2007.
 
 #### Fig.04
 
