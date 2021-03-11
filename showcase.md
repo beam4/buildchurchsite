@@ -12,7 +12,7 @@ hero_height: is-small
 
 ![u01](/img/ultrasound001.jpeg)
 
-Fig. 01 A C5-2 abdominal transducer fond lens brocken, look at its imaging with a black darkness. 
+Fig. 01 A C5-2 abdominal transducer found lens brocken, look at its imaging with a black darkness. 
 
 #### Fig. 02
 
@@ -30,7 +30,7 @@ Fig. 03 We bought a brand new transducer from GE France.
 
 ![t07](/img/transducer07.jpeg)
 
-Fig. 04 We bought a second hand transducer L7535 for HP Ultrasound (now part of Philips) from a Canada company.
+Fig. 04 We bought a second hand transducer L7535 for HP Ultrasound (now a part of Philips) from a Canada company.
 
 #### Fig. 05
 
