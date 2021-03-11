@@ -12,7 +12,7 @@ hero_height: is-small
 
 ![u01](/img/ultrasound001.jpeg)
 
-Fig. 01 A C5-2 abdominal transducer found lens brocken, look at its imaging with a black darkness. 
+Fig. 01 A C5-2 abdominal transducer found lens brocken, look at its imaging with a black darkness. Shot on 2008.
 
 #### Fig. 02
 
