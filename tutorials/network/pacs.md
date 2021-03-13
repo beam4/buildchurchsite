@@ -1,3 +1,11 @@
+---
+title: Tutorials
+subtitle: 
+layout: page
+hero_image: "/img/sitev1.0/home03.jpg"
+hero_height: is-small
+---
+
 ##### PACS in hospital
 
 PACS (Pictures Archarve and Connunication Software) is an application of medical imaging standard called DICOM, in order to let physician share medical imagings and patient's reports,so the physician does not need to go to the image commodities, can view the imagings from his desk, will increase the diagnotics accuracy and convenience.
