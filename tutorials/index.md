@@ -8,7 +8,7 @@ hero_height: is-small
 
 #### Transducer repair
 
-There are generally 3 types transducer repair, cable repair, crystal dead and lens repair. All of them appear disconnection, display a black line on screen indicate ultrasound not function well in that point. Cable demage is visible, the problem is how to distinguish crystal dead from lens broken.
+There are generally 3 type transducer repairs, cable repair, crystal dead and lens repair. All of them appear disconnection, display a black line on screen indicate ultrasound not function well in that point. Cable demage is visible, the problem is how to distinguish crystal dead from lens broken.
 
 [Transducer site inspection DIY](/tutorials/transducer/inspection/)
 
