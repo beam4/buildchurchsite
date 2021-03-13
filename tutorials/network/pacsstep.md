@@ -24,4 +24,4 @@ we are going to install DCM4che
 
 Refer to
 
-https://github.com/dcm4che/dcm4chee-arc-light/wiki/Running-on-Docker
+https://github.com/dcm4che/dcm4chee-arc-light/wiki/Run-minimum-set-of-archive-services-on-a-single-host
