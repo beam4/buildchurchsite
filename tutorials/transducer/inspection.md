@@ -28,4 +28,4 @@ Decide by fatory test, if it is a crytal repair, then no need to do an outright 
 
 Step4: quick proccess
 
-Signing contract via email( fax machine deprecated) for fast proccessing, in order to save money to costumer. The contract can be download here. 
+Signing contract via email( fax machine deprecated) for fast proccessing, in order to save money to costumer.
