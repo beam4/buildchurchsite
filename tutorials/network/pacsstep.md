@@ -16,7 +16,7 @@ Linux is open source software, free to use, we choose Ubuntu server.There are ma
 
 Refer to:
 
-docker installation instruction on Ubuntu from docker.com
+[docker installation instruction on Ubuntu from docker.com](https://docs.docker.com/engine/install/ubuntu/)
 
 **install server application**
 
