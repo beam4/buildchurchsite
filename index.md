@@ -6,19 +6,33 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-large
 ---
 
-### The business GOAL:
+#### Scope of work
 
-Our goal is to bring low-cost ultrasound services and imaging networking solution to physicians, the physicians (doctors who are responsable for diagnostics) have demands to increase their diagnostics more accurate, we can provide ultrasound transducers repair, if those can not meet their needs, we have second-hand ultrasound machine,then we can provide new or preowned ultrasound transducer, then we can provide low cost PACS imaging solution.
+**The Transducer Repairs**
 
-All those solutions are to significantly decrease the cost for imaging service meanwhile the affordable PACS solution will increase our customer's competitive advantage. 
+We may start from transducer repairs, with quick proccess.(with no site engineer involved, the customer will do site inspection them self,then sign agreement online, deliver the transducer themself, recieve repaired transducer themself, all by instructions on website, in order to save customer's cost.) The transducer repair are suppose to be model relevantless. The transducer repairs mostly are lens repair.
 
-The competition force hospital or clinic to increase their reputations, one of reputations comes from diagnostics accuracy, there are various products in market, but most of them are either expensive or lack of transparency, our goal is providing low cost ultrasound transducer repair service to hospital or clinics, make the services affordable and transparency, incuding second hand ultrasound machine and transducer sales. We stand on our customers' point of view to make the complexity become a simplier solution.
+**Transducer Or Ultrasound Machine Replacement**
 
-Here is the [organization introduction](/mission/organization),as well as an on share structure. We also mentioned sales.
+Then if the transducer repairs do not meet customer's need, we may offer them new or used transducer, if they want to buy ultrasound machine,we can offer used ultrasound machine, in this stage,the customer's information is very crucial, we may offer the customer's most fit solution according to the information.
 
-The remote work is in the center to evalue our success, how to build a competitive organazition is a big challenge.
+**Medical Imaging Networking**
 
-Keep in mind, we are not a sales company, sale our solutions to whom bid most, our customers' success reprsente our job doing good, that is the standard to evalue our success.
+The imaging networking work are little bit different, once we are ready we have to look for a customer,usually it is a small hospital or clinic, the low cost DICOM server to store all diagnostics images and view on doctor's desk, may attractive to hospital.
+
+#### Sales channels
+
+First we need to testify the idea, to do experiment. Then we will do online advertising. The experiment group may be nearby target hospitals and clinics, if the idea prove works,then go online advertising.
+
+I think the transducer repair we can make it unbeatable low to attract customers, we may gain from used ultrasound sales, inclding transducer sales commission.
+
+#### The initial sales plan
+
+I think I can pursuade Chinese transducer to setup a fecility in India, in a short time after we start. I think India market is attactive.
+
+The online advertising are suppose to help us to sale ultrasound machines, I will negotiate with a Canada company as well as an american company to sale their invetotry to let us have commission from sales, by exchange I can provide free digital advice for small business, I think it is attractive.I will do it shortly after we start.
+
+The images networking cusomer may come from used ultrasound,the networking work may take longer time than sale work.
 
 ### contact
 
