@@ -18,4 +18,4 @@ Here is the [organization introduction](/mission/organization/),as well as an in
 
 The remote work is in the center to evalue our success, how to build a competitive organazition is a big challenge.
 
-Keep in mind, we are not a sales company, selling our solutions to whom bid most, our customers' success reprsente our job doing good, that is the metric.
+Keep in mind, we are not a sales company, selling our solutions to whom bid most, our customers' success reprsent our job doing good, that is the metric.
