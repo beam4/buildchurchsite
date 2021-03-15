@@ -18,11 +18,11 @@ Among cable repair or crystal dead or lens broken, will cause image quality decl
 
 Step1, connect the suspect transducer, aplly a thin layer of ultrasound gel.
 
-![inspection1](tutorials/transducer/img/ultrasound-gel.jpg)
+![inspection1](/tutorials/transducer/img/ultrasound-gel.jpg)
 
 Step2, adjust the 'Depth' button minimum and 'Gain' button to appropriate level, to make the disconectivity on screen as obviusly as possible. In this case, the Depth is 1.78cm.
 
-![inspection2](tutorials/transducer/img/ultrasound-black.png)
+![inspection2](/tutorials/transducer/img/image.jpeg)
 
 Step3, if can view black line on the screen, then prove your suspicion, otherwise, there are other reason cuase the problem. Press 'Freeze' button to make the image photo shot or keep a thermal printer copy.
 
