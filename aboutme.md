@@ -6,7 +6,7 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
 
-![Me](/img/potrait.jpeg)
+![Me](/img/potrait.png)
 
 This photo was taken on January 07, 2021
 
