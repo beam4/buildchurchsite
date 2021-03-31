@@ -8,7 +8,7 @@ hero_height: is-small
 
 ![Me](/img/portrait.png)
 
-This photo was taken on January 07, 2021
+This photo was taken on March 31, 2021
 
 ![MyPassport](/img/pass.jpeg)
 
