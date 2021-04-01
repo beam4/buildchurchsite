@@ -18,10 +18,6 @@ This photo was taken on March 31, 2021. I am in Kathmandu,Nepal.
 
 This a photo of my passport.
 
-#### location
-
-currently, I am located in Kathmandu Nepal.
-
-#### email
+## email
 
 cheejon@yahoo.com
