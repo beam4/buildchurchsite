@@ -14,7 +14,7 @@ Doing business is to pursue a goal with bulding an organization to achieve the g
 
 ##### The people structures
 
-At the begining, no need much investments, we only need me(owner) and one more man (a christian), keep in mind, there is probobly a need of an accountant in the near future.I presume our income come mostly from online adverting but not from face to face visiting.
+At the begining, no need much investments, we only need me(owner) and another man (a christian).
 
 ##### The Shares structure
 
