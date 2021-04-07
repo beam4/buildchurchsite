@@ -6,7 +6,7 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-large
 ---
 
-#### Scope of work
+#### What we are going to do (The scope of work)
 
 **The Transducer Repairs**
 
@@ -20,11 +20,13 @@ Then if the transducer repairs do not meet customer's need, we may offer them ne
 
 The imaging networking work are little bit different, once we are ready we have to look for a customer,usually it is a small hospital or clinic, the low cost DICOM server to store all diagnostics images and view on doctor's desk, may attractive to hospital.
 
-#### Sales channels
+#### The path we are going through
 
-First we need to testify the idea, to do experiment. Then we will do online advertising. The experiment group may be nearby target hospitals and clinics, if the idea prove works,then go online advertising.
+Work remotely and online advertising are crucial to our business.
 
-I think the transducer repair we can make it unbeatable low to attract customers, we may gain from used ultrasound sales, inclding transducer sales commission.
+Work remotely are considered the future of work, means we can not relay on any previous experieces, we have to build from blank. A long way to go.
+
+Online advertising is crucial to our survival, first have to try and find appropriate channel, sell face to face is traditional way, we have to sell digital way rather than traditional way.
 
 #### The initial sales plan
 
