@@ -8,9 +8,15 @@ hero_height: is-small
 
 ![Me](/img/portrait.png)
 
-We are in time of change, the change was brought by internet, the digital rules are replacing the traditional rules we familiar to, the global startups surge can prove this happening. My own experience make me to believe God exist,rather than proclaiming living God on paper,someone claims he is his own master, it is not true. If it is true, why people doubt his own existence?  What is the purpose of life? I want to be a financial branch on the road to evanglist.
+I believe we are in time of changes, where the new order of the world is emerging, it was called digital transformation, while the traditional practices fad away, there are few things strange in my mind:
 
-I want to invite a chritian to take part in to operate the business in India market with me, the christian faith, the remote work are part of fondations of this work, the business we are going to carry on mostly based on what we had done before, it is feasible and proven.
+1. The mechanism of believing changed, previously we want to judge by ourselves, first we need to collect infomations then give our judges, but in digital practices, we need to follow different mechanism, it was called base on reputation, believing is similar with that of Christian faith,not based on judgment, one reason maybe there are complex things towards the truth, one person can not handle to make judgment.
+
+2. The  consciousness prove to exist, you don't need to teach conciousness problems if conciousness exist,conciousness exist lead to creation exist, good conciousness lead to Christian faith. The creation make sense that people are created with a purpose, so the digital transformation is for Christian faith who believe the purpose and pursue it.
+
+3. Work remotely became  popular, previously I thought some categories may work on remotely,like tech industry, after virus lockdown, we dicovered that health concerns overcome cultures, working from home become new norm, that means the offices build for large organizations will be abandoned.
+
+The business I want to carry is ultrsound medical images, most of it are proven, it is not only letting poeple live on it,but also can support church doing their work.
 
 This photo was taken on March 31, 2021. I am in Kathmandu,Nepal.
 
