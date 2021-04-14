@@ -8,6 +8,8 @@ hero_height: is-small
 
 ![Me](/img/portrait.png)
 
+### What is in my mind
+
 I believe we are in time of change, the new order of the world is emerging, it was called digital transformation, while the traditional practices fade away, there are few things strange in my mind:
 
 1. The mechanism of believing changed, previously we want to judge by ourselves, first we need to collect infomations then give our judges, but in digital practices, we need to follow different mechanism, it was called base on reputation, believing is similar with that of Christian faith,not based on judgment, one reason maybe there are complex things towards the truth, one person can not handle to make judgment.
@@ -20,10 +22,12 @@ The business I want to carry is ultrsound medical image services, most of it are
 
 This photo was taken on March 31, 2021. I am in Kathmandu,Nepal.
 
+### My passport
+
 ![MyPassport](/img/pass.jpeg)
 
 This a photo of my passport.
 
-## email
+### email
 
 cheejon@yahoo.com
