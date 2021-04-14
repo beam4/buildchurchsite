@@ -20,6 +20,16 @@ Then if the transducer repairs do not meet customer's need, we may offer them ne
 
 The imaging networking work are little bit different, once we are ready we have to look for a customer,usually it is a small hospital or clinic, the low cost DICOM server to store all diagnostics images and view on doctor's desk, may attractive to hospital.
 
+### The process
+
+For marketing, the transducer repair cover all models and brands, I want to make the transducer repair help us to build reputation of low cost solution in ultrasound,so I presume all the work can be done online, without engineers intervention in order to save cost, including sale through online advertising, diagnostic transducer condition by online document by themseves, sign repair contract online, after repair installation by themseves. The gain mainly come from second hand ultrasound and networking work, we serve our costumers with true promise never cheat in work, finding a better solution to solve their problems, regardless their attitude.
+
+The second hand ultrasound's costumers mainly come from our reputation we build through the whole process, the networking's costumers may be concern with the second hand ultrasound costumers.
+
+For technology, our full techology stackes are based on open source technology,which including Cloud, Linux server, Docker, Applications like Jekyll, dcm4chee, Odoo ERP. 
+
+And for remote work, we recommend as simple as possible, we recommend gitlab.com as intranet, google gmail as email.
+
 ### The path we are going through
 
 Work remotely and online advertising are crucial to our business.
