@@ -16,7 +16,7 @@ I believe we are in time of changes, where the new order of the world is emergin
 
 3. Work remotely became  popular, previously I thought some categories may work on remotely,like tech industry, after virus lockdown, we dicovered that health concerns overcome cultures, working from home become new norm, that means the offices build for large organizations will be abandoned.
 
-The business I want to carry is ultrsound medical images, most of it are proven, it is not only letting poeple live on it,but also can support church doing their work.
+The business I want to carry is ultrsound medical image services, most of it are proven, it is not only letting poeple live on it,but also can support church doing their work.
 
 This photo was taken on March 31, 2021. I am in Kathmandu,Nepal.
 
