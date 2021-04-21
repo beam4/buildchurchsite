@@ -10,7 +10,7 @@ hero_height: is-small
 
 ### Remote Work
 
-First, I believe remote work (work from home not working together in an office) is possible, but challengs remain. Work remotely have a lot of benefits,one is obviousely to save office rent, another is the country border used to limit people no use any more. In order to be competitive, the success remote work is not simple, it is challengable , by refer to world famous remote work company (some of them have over one thousand employees,like gitlab.com, github.com, more and more companies work remotely,some of them are very big,they even do not have an office. ), here are some I borrow from gitlab.com :
+First, I believe remote work (work from home not working together in an office) is possible, challengs remain. Work remotely have a lot of benefits, one is obviousely to save office rent, another is the country border used to limit people no use any more. In order to be competitive, the success remote work is not simple, it is challengable , learn from world famous remote work company (some of them have over one thousand employees,like gitlab.com, github.com, more and more companies work remotely,some of them are very big,they even do not have an office. ), here are some I learned from gitlab.com (there are over one thousand 3 hundred emplyees, their sharing are very valueable.):
 
 ##### Shared Value
 
