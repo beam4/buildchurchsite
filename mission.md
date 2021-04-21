@@ -6,9 +6,9 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
 
-### The business GOAL:
+### The business GOAL
 
-Our goal is to bring low-cost ultrasound services and imaging networking solution to physicians, the physicians (doctors who are responsable for diagnostics) have demand to increase their diagnostics more accurate. We can provide ultrasound transducers repair, if those can not meet their needs, we have second-hand ultrasound machine,as well we can provide new or used ultrasound transducer, then we can provide low cost PACS imaging solution.
+Our goal is to bring low-cost ultrasound services and imaging networking solution to physicians, the physicians (doctors who are responsable for diagnostics) have demands to increase their diagnostics more accurately. We can provide ultrasound transducers repair, if it will not meet their needs, we have second-hand ultrasound machine,as well we can provide new or used ultrasound transducer, then we can provide low cost PACS imaging solution.
 
 All those solutions are to significantly decrease the cost for medical imaging service meanwhile the affordable PACS solution will increase our customer's competitive advantage. 
 
