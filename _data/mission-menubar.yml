@@ -1,5 +1,7 @@
 - label: Core Values
   items:
+    - name: Value
+      link: /mission/value/
     - name: Organization
       link: /mission/organization/
     - name: Sales
