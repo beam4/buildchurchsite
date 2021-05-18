@@ -8,8 +8,6 @@ hide_hero: false
 hero_height: is-small
 ---
 
-#### Backgroud
-
 In business, today we face fierce competition in everyway, either from producs and organization, or the way we run business, if we follow the way running business according to our own sight, I am sure we will fail.
 
 I believe the old generation is replacing by new generetion of business rules,called digital transformation, there is a good chance to start a new business, but if you act from your own personality,to compete against existing player and with unknown forthcoming competitors, you will definitly can not survive in competition, what to do? To follow the Christian Way is the only chance to survive,cause it claims it is vivid. It is true and it is life and you believe as it claim to be.  
