@@ -14,6 +14,8 @@ All those solutions are to significantly decrease the cost for medical imaging s
 
 The competition force hospital or clinic to increase their reputations, one of reputations comes from diagnostics accuracy, there are various products in market, but most of them are either expensive or lack of transparency, our goal is providing low cost ultrasound solution to hospital or clinics. We stand on our customers' point of view to make the complexity become a simplier solution.
 
+Jesus Christ is the [value](/mission/value/).
+
 Here is the [organization introduction](/mission/organization/),as well as an introduction on share structure. We also mentioned sales.
 
 The remote work is in the center to evalue our success, how to build a competitive organazition is a big challenge.
