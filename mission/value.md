@@ -16,7 +16,7 @@ I believe the old generation is replacing by new generetion of business rules,ca
 
 This business is based on top of the christian faith, in order to survive in fierce competition, we don't have to live on our own, which we are doomed to fail, we follow the mighty god, he is superior above all things.
 
-Some companies claim they have culture, that is a attempt trying to build a set of rules called cultures to survive in competition,that is phychological hint try giving the same identity to all persons, that is not real,it is false.
+Some companies claim they have culture, that is a attempt trying to build a set of rules called cultures to survive in competition,that is phychological hint trying to give the same identity to all persons, that is not real,it is false.
 
 But believing in Christ, share the mighty god to become unbeatable,cause you share the unbeatable name.
 
