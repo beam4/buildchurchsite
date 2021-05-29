@@ -22,9 +22,9 @@ The imaging networking work are little bit different, once we are ready we have 
 
 ### The process
 
-For marketing, the transducer repair cover all models and brands, I want to make the transducer repair help us to build reputation of low cost solution in ultrasound,so I presume all the work can be done online, without engineers intervention in order to save cost, including sale through online advertising, diagnostic transducer condition by online document by themseves, sign repair contract online, after repair installation by themseves. The gain mainly come from second hand ultrasound and networking work, we serve our costumers with true promise never cheat in work, finding a better solution to solve their problems, regardless their attitude.
+For marketing, the transducer repair cover all models and brands, I want to make the transducer repair help us to build reputation of low cost solution in ultrasound,so I presume all the work can be done online, without engineers intervention in order to save cost, including sale through online advertising, inspecting transducer condition by online document by customer themselves, sign repair contract online, after repair installation by themselves. The gain mainly come from second hand ultrasound and networking work, we serve our customers with true promise never cheat in work, finding a better solution to solve their problems, regardless their attitude.
 
-The second hand ultrasound's costumers mainly come from our reputation we build through the whole process, the networking's costumers may be concern with the second hand ultrasound costumers.
+The second hand ultrasound's customers mainly come from our reputation we build through the whole process, the networking's customers may be concern with the second hand ultrasound customers.
 
 For technology, our full techology stackes are based on open source technology,which including Cloud, Linux server, Docker, Applications like Jekyll, dcm4chee, Odoo ERP. 
 
