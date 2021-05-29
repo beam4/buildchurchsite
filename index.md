@@ -10,7 +10,7 @@ hero_height: is-large
 
 **The Transducer Repairs**
 
-We may start from transducer repairs, with quick proccess.(with no site engineer involved, the customer will do site inspection them self,then sign agreement online, deliver the transducer themself, recieve repaired transducer themself, all by instructions on website, in order to save customer's cost.) The transducer repair are suppose to be model relevantless. The transducer repairs mostly are lens repair.
+We may start from transducer repairs, with quick proccess (with no site engineer involved, the customer will do site inspection themselves,then sign agreement online, deliver the transducer themselves, recieve repaired transducer themselves, all by instructions on website, in order to save customer's cost.) . The transducer repairs mostly are lens repair.
 
 **Transducer Or Ultrasound Machine Replacement**
 
