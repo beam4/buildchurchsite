@@ -40,11 +40,9 @@ Online advertisings are crucial to our survival, first have to try and find appr
 
 ### The initial sales plan
 
-I think I can pursuade Chinese transducer repair supplier to setup a fecility in India, in a short time after we start. I think India market is attactive.
-
 The online advertising are suppose to help us to sale ultrasound machines, I will negotiate with a Canada company as well as an american company to sale their invetotry to let us have commission from sales, by exchange I can provide free digital advice for small business, I think it is attractive.I will do it shortly after we start.
 
-The images networking cusomer may come from used ultrasound,the networking work may take longer time than sale work.
+The images networking cusotmer may come from used ultrasound,the networking work may take longer time than sale work.
 
 ### contact
 
