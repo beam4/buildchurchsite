@@ -29,7 +29,7 @@ In Christ, you will have:
 
 #### To be digitalized
 
-Apart from the christian value, we have to stick with the digital approach,because the old rules, the traditional approach is abandoned and new rule is replacing, nobody will like to apply an outdated approach temporary, to be competitive, youy have to whatever try digital approaches, digital approaches usually have many forms, some of those are:
+Apart from the christian value, we have to stick with the digital approach,because the old rules, the traditional approach is abandoned and new rule is replacing, nobody will like to apply an outdated method temporary, to be competitive, you have to whatever try digital approaches, digital approaches usually have many forms, some of those are:
 
 - Online advertising
 - Online marketplaces
