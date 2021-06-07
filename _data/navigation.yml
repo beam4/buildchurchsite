@@ -49,3 +49,5 @@
  #   link: /tutorials/
 - name: Tutorials
   link: /tutorials/
+- name: About
+  link: /aboutme/
