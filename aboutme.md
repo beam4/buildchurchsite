@@ -6,8 +6,6 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
 
-![Me](/img/portrait.png)
-
 ### What is in my mind
 
 I believe we are in time of change, the new order of the world is emerging, it was called digital transformation, while the traditional practices fade away, there are few things strange in my mind:
@@ -19,6 +17,8 @@ I believe we are in time of change, the new order of the world is emerging, it w
 3. Working remotely became  popular, previously I thought some categories may work on remotely,like tech industry, after virus lockdown, we discovered that health concerns overcome cultures, working from home become mainstream, that means the offices build for large organizations will be abandoned.
 
 The business I want to carry is ultrsound medical image services, most of it are proven, it is not only letting poeple live on it,but also can support church doing their work.
+
+![Me](/img/portrait.png)
 
 This photo was taken on March 31, 2021. I am in Kathmandu,Nepal.
 
