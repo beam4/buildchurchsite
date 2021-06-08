@@ -6,17 +6,13 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
 
-### What is in my mind
+The idea is quite straightforward, the Christian Faith is the foudation, carried out with remote work, and combined with digital approaches.
 
-I believe we are in time of change, the new order of the world is emerging, it was called digital transformation, while the traditional practices fade away, there are few things strange in my mind:
+The christian faith is the foudation of this business, not only becuase we have to relay on his mighty power to make this come true, but also we realize the christian faith is the origin of life, also one reason is we can live on this business.
 
-1. The mechanism of believing changed, previously we want to judge by ourselves, first we need to collect infomations then give our judges, but in digital practices, we need to follow different mechanism, it was called base on reputation, believing is similar with that of Christian faith,not based on judgment, one reason maybe there are complex things towards the truth, one person can not handle to make judgment.
+We will do our work fully remote, that means we no more share an office to work face by face, the working mode meet the requirement of the customer's.
 
-2. The  consciousness prove to exist, you don't need to teach which is white or which is black if conciousness exist,conciousness exist lead to creation exist, good conciousness lead to Christian faith. The creation make sense that people are created with a purpose, so the digital transformation is for Christian faith who believe the purpose and pursue it.
-
-3. Working remotely became  popular, previously I thought some categories may work on remotely,like tech industry, after virus lockdown, we discovered that health concerns overcome cultures, working from home become mainstream, that means the offices build for large organizations will be abandoned.
-
-The business I want to carry is ultrsound medical image services, most of it are proven, it is not only letting poeple live on it,but also can support church doing their work.
+In order to survive in strong copetition, we have to carry out the business in digital approaches instead of existing practices, much differences in sales process, we opt online advertising instead traditional sale person, so the sale channel choice is crucial to this business.
 
 ![Me](/img/portrait.png)
 
