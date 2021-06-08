@@ -10,7 +10,7 @@ The idea is quite straightforward, the Christian Faith is the foudation, carried
 
 The christian faith is the foudation of this business, not only becuase we have to relay on his mighty power to make this come true, but also we realize the christian faith is the origin of life, also one reason is we can live on this business.
 
-We will do our work fully remote, that means we no more share an office to work face by face, the working mode meet the requirement of the customer's.
+We will do our work fully remote, that means we no more share an office to work face by face, the working model meet the customer's requirements as well.
 
 In order to survive in strong copetition, we have to carry out the business in digital approaches instead of existing practices, much differences in sales process, we opt online advertising instead traditional sale person, so the sale channel choice is crucial to this business.
 
