@@ -10,7 +10,7 @@ The ultrasound imaging is the most popular, non-aggressive and relatively low co
 
 Our goal is to make the ultrasound service work low enough for hospitals and benefit to patients as well. 
 
-### `christian faith` + 'remote work' + 'digital approaches'
+### `christian faith` + `remote work` + `digital approaches`
 
 ##### Scope of Work
 
