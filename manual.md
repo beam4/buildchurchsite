@@ -1,3 +1,11 @@
+---
+title: Manual
+subtitle: 
+layout: page
+hero_image: "/img/sitev1.0/home03.jpg"
+hero_height: is-small
+---
+
 When we want to do works together, we actually wnat our collaboration go smoothly, because the good collaborations mean better chances to survive in firece competition, that is why we need to follow common code or rules.
 
 We need our rules to work together, in order that new one can follow the rule, to ensure building the mutual trusts.
