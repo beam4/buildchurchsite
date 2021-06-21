@@ -20,9 +20,8 @@ One should agree with no commercial secretd at all, that do not mean no need per
 
 We will work remotely, with no office at all.For ultrasound transducer repair work, we will not repair by our selves, we only act as a sales agent. For used ultrasound sales work, it mostly like second hand car business. So without an office, the communication is very important.No need mature engineer to know ultraound from the begining, we provide necessary training enough to do the works. 
 
-1.One should have an google account(gmail account), 
-
-2. One should use that gmail account to regeister an [gitlab.com](https://gitlab.com/users/sign_up) account, we use gitlab.com as an intranet(Internal internet for employees).
+- One should have an google account(gmail account), 
+- One should use that gmail account to regeister an [gitlab.com](https://gitlab.com/users/sign_up) account, we use gitlab.com as an intranet(Internal internet for employees).
 
 ##### Rule for communication
 
