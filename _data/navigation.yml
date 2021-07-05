@@ -20,8 +20,8 @@
 #  link: /index-en/ 
 #- name: 数据
 #  link: /tutorials/zh/tutorials/
-- name: Mission
-  link: /mission/
+#- name: Mission
+#  link: /mission/
 # - name: Contact Us
 #   link: /contact/
 #- name: Tutorials
@@ -43,11 +43,11 @@
  #     link: /preownedmachine/
  #   - name: Other Applications
  #     link: /others/
-- name: Showcase
+- name: Previouswork
   link: /showcase/
  # - name: Tutorials
  #   link: /tutorials/
-- name: Tutorials
-  link: /tutorials/
-- name: About
-  link: /aboutme/
+#- name: Tutorials
+#  link: /tutorials/
+#- name: About
+#  link: /aboutme/
