@@ -2,7 +2,7 @@
 title: Provide low cost ultrasound services
 subtitle: 
 layout: page
-hero_image: "/img/sitev1.0/home03.jpg"
+hero_image: "/img/sitev1.0/liver.png"
 hero_height: is-large
 ---
 
