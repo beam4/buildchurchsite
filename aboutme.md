@@ -26,4 +26,4 @@ This a photo of my passport.
 
 ### email
 
-cheejon@yahoo.com
+cheejoen@gmail.com
