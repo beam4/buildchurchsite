@@ -20,8 +20,8 @@
 #  link: /index-en/ 
 #- name: 数据
 #  link: /tutorials/zh/tutorials/
-#- name: Mission
-#  link: /mission/
+- name: Goals
+  link: /goals/
 # - name: Contact Us
 #   link: /contact/
 #- name: Tutorials
@@ -47,7 +47,7 @@
   link: /showcase/
  # - name: Tutorials
  #   link: /tutorials/
-#- name: Tutorials
-#  link: /tutorials/
-#- name: About
-#  link: /aboutme/
+- name: Workflow
+  link: /workflow/
+- name: About
+  link: /aboutme/
