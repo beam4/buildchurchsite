@@ -1,5 +1,5 @@
 ---
-title: Our mission
+title: goals
 subtitle: 
 layout: page
 hero_image: "/img/sitev1.0/home03.jpg"
