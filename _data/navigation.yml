@@ -22,8 +22,8 @@
 #  link: /tutorials/zh/tutorials/
 - name: Goals
   link: /goals/
-# - name: Contact Us
-#   link: /contact/
+- name: Guide
+  link: /guide/
 #- name: Tutorials
 #  link: /tutorials/en
 #- name: Facebook Group
@@ -45,8 +45,8 @@
  #     link: /others/
 - name: Previouswork
   link: /showcase/
- # - name: Tutorials
- #   link: /tutorials/
+ #- name: Tutorials
+ #  link: /tutorials/
 - name: Workflow
   link: /workflow/
 - name: About
