@@ -20,10 +20,12 @@
 #  link: /index-en/ 
 #- name: 数据
 #  link: /tutorials/zh/tutorials/
-- name: Events
-  link: /events/
+#- name: Events
+#  link: /events/
 - name: Contact
   link: /contact/
+- name: Documentation
+  link: /docs/
 #- name: Tutorials
 #  link: /tutorials/en
 #- name: Facebook Group
@@ -43,6 +45,4 @@
  #     link: /preownedmachine/
  #   - name: Other Applications
  #     link: /others/
- #- name: Tutorials
- #  link: /tutorials/
 
