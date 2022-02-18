@@ -22,8 +22,10 @@
 #  link: /tutorials/zh/tutorials/
 - name: goals
   link: /goals/
-- name: Guide
-  link: /guide/
+- name: Events
+  link: /events/
+- name: Contact
+  link: /contact/
 #- name: Tutorials
 #  link: /tutorials/en
 #- name: Facebook Group
@@ -43,11 +45,6 @@
  #     link: /preownedmachine/
  #   - name: Other Applications
  #     link: /others/
-- name: Previouswork
-  link: /showcase/
  #- name: Tutorials
  #  link: /tutorials/
-- name: Workflow
-  link: /workflow/
-- name: About
-  link: /aboutme/
+
