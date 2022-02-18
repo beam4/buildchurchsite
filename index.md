@@ -32,7 +32,7 @@ If you don't have a netlify.com account, create one and sign in.
 
 ### Why we need a website?
 
-### How much this service cost
+### How much this service cost?
 
 A: Cost zero, you follow the steps and do it yourself, build a church website by yourself.
 
