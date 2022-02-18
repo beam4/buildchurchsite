@@ -20,8 +20,6 @@
 #  link: /index-en/ 
 #- name: 数据
 #  link: /tutorials/zh/tutorials/
-- name: goals
-  link: /goals/
 - name: Events
   link: /events/
 - name: Contact
