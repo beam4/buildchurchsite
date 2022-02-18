@@ -1,5 +1,5 @@
 ---
-title: Provide low cost ultrasound services
+title: Build your church website with ease
 subtitle: 
 layout: page
 hero_image: "/img/sitev1.0/home_cn.jpg"
