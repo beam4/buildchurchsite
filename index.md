@@ -31,3 +31,7 @@ If you don't have a netlify.com account, create one and sign in.
 #### 5. You will get a website from the target website
 
 ### Why we need a website?
+
+### The domain name issue:
+
+Turn, for example, this site's name from web browser is buildchurchsite.netlify.app to buildchurchsite.org cost about 10 US dollar a year, church have to pay to domain name agency for using custom domain name.
