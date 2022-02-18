@@ -6,15 +6,26 @@ hero_image: "/img/sitev1.0/liver.png"
 hero_height: is-large
 ---
 
-The medical ultrasound imaging is the most common, non-aggressive and relatively low priced make it a good choice to both hospital and patient.
+The intention is to build a church site from Code in a github.com repositry(means don't need start from scratch) and Hosting in netlify.com(the netlify.com automatically complete the job). 
 
+Follow the steps you will get a functional,static pages ,no databasse website.
 
-##### Scope of Work
+### Steps
 
-**The Transducer/probe Repairs**.The most defect is coming from transducer, we don't need to change the full ultrasound machine. We may start from transducer repairs, with quick proccess (with no site engineer involved, the customer will do site inspection themselves,then sign agreement online, deliver the transducer themselves, recieve repaired transducer themselves, all by instructions on website, in order to save customer's cost.) . The transducer repairs mostly are lens repair.
+#### 1. Sign in your github.com account
 
-**Transducer Or Ultrasound Machine Replacement**.It is like a used car business, you can run a used car business only because you knew it. So the good reputation and sale channel are very crucial to this business, online advertisings are preferable. 
+If you don't have a github.com account, create one. (presume use github.com to store the Code, other service are the same with gitlab.com or gitbucket.com).
 
-### contact
+#### 2. Folk the repositry
 
-cheejoen@gmail.com
+Folk the repositry to get a new copy of repositry to create the website.
+
+#### 3. Sign in your netlify.com account
+
+If you don't have a netlify.com account, create one and sign in.
+
+#### 4. Instruct netlify.com to deploy website
+
+#### 5. You will get a website from the target website
+
+### Why we need a website?
