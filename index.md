@@ -6,6 +6,8 @@ hero_image: "/img/sitev1.0/home_cn.jpg"
 hero_height: is-large
 ---
 
+### Intention
+
 The intention is to build a church site from Code in a github.com repositry(means don't need start from scratch) and Hosting in netlify.com(the netlify.com automatically complete the job). 
 
 Follow the steps you will get a functional,static pages ,no databasse website.
