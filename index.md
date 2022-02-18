@@ -1,5 +1,5 @@
 ---
-title: Build your church website with ease
+title: Build your church website easy
 subtitle: 
 layout: page
 hero_image: "/img/sitev1.0/home_cn.jpg"
