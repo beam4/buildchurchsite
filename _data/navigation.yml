@@ -22,10 +22,10 @@
 #  link: /tutorials/zh/tutorials/
 #- name: Events
 #  link: /events/
-- name: Contact
-  link: /contact/
 - name: Documentation
   link: /docs/
+- name: Contact
+  link: /contact/
 #- name: Tutorials
 #  link: /tutorials/en
 #- name: Facebook Group
