@@ -1,5 +1,5 @@
 ---
-title: Docunentation
+title: Documentation
 subtitle: 
 layout: page
 hero_image: "/img/sitev1.0/home03.jpg"
