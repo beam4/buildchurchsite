@@ -7,3 +7,5 @@ hero_height: is-small
 ---
 
 #### Contact
+
+Email: cheejoen@gmail.com
