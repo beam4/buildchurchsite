@@ -6,6 +6,6 @@ hero_image: "/img/sitev1.0/home03.jpg"
 hero_height: is-small
 ---
 
-###### [Common Method]()
+##### [Preparation](/docs/preparation.md)
 
-#### [Jekyll template]()
+
